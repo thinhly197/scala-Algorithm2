@@ -2,7 +2,7 @@ package com.github.pathikrit.scalgos
 
 import org.specs2.mutable.Specification
 
-import Macros._
+import com.github.thinhly.scalgos.Macros._
 
 class MacrosSpec extends Specification {
 

@@ -4,7 +4,7 @@ import org.specs2.mutable.Specification
 
 import RandomData.Graphs
 import Graph._
-import Implicits._
+import com.github.thinhly.scalgos.Implicits._
 
 class GraphSpec extends Specification {
 

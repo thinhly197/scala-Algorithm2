@@ -2,7 +2,7 @@ package com.github.pathikrit.scalgos
 
 import org.specs2.mutable.Specification
 
-import Implicits.Crossable
+import com.github.thinhly.scalgos.Implicits.Crossable
 import BitHacks._
 
 class BitHacksSpec extends Specification {

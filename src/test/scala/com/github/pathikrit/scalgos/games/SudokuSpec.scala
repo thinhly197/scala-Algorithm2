@@ -1,5 +1,6 @@
 package com.github.pathikrit.scalgos.games
 
+import com.github.thinhly.scalgos.games.Sudoku
 import org.specs2.mutable.Specification
 
 class SudokuSpec extends Specification {

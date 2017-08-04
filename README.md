@@ -10,7 +10,7 @@ Goals
 Building
 ========
 * Install git, scala and sbt: `brew install git scala sbt`
-* Clone project: `git clone https://github.com/pathikrit/scalgos.git; cd scalgos`
+* Clone project: `git clone github.com:thinhly197/scala-Algorithm2.git; cd scalgos`
 * Build and run tests: `sbt test`
 
 
